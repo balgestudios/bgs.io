@@ -6,11 +6,12 @@ We have BalgeApp Labs a part of Balge Design Studios, its a team of mobile exper
 
 Please visit below links to some of our fine works.
 
+https://balgestudios.github.io/bgs.io/
+
 ## What We Do
 
-
 ## Get In Touch
-Click on link: #
+Click on link: # https://balgestudios.github.io/bgs.io/
 
 
 ## Authors
